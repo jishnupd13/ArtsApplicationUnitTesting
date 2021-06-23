@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArtBookTestApp</string>
+    <string name="enter_the_art_name">Enter the art name</string>
+    <string name="enter_the_artist_name">Enter the artist name</string>
+    <string name="enter_the_artist_year">Enter the artist year</string>
+    <string name="save">Save</string>
+    <string name="search_image">Search Image</string>
+</resources>
