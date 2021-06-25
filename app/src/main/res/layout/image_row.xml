@@ -5,7 +5,7 @@
     android:layout_height="wrap_content">
 
     <ImageView
-        android:id="@+id/art_row_image_view"
+        android:id="@+id/singleArtImageView"
         android:layout_width="140dp"
         android:layout_height="140dp"
         android:contentDescription="@string/app_name"
