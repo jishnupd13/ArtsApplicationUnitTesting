@@ -3,7 +3,6 @@
     package="com.app.artbooktestapp">
 
     <uses-permission android:name="android.permission.INTERNET"/>
-
     <application
         android:name=".ArtBookApplication"
         android:allowBackup="true"
